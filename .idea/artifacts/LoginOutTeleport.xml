@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoginOutTeleport">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoginOutTeleport</output-path>
+    <root id="archive" name="LoginOutTeleport.jar">
+      <element id="module-output" name="星系掉线传送" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
